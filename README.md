@@ -7,7 +7,7 @@
 ArceOS 是由国家智能网联汽车创新中心和清华大学联合开发，采用 Rust 语言编写的RTOS系统，旨在为智能网联汽车等领域提供安全、高性能、可靠内核解决方案的实验性模块化操作系统，ArceOS已经支持 Dora-rs. 
 我们的目标是移植 RustRobotics 代码移植到到 Dora-rs，运行在ArceOS RTOS上, 结合免费提供的 Dora-kit 四轮机器人， 借助已有的激光雷达， IMU 等传感器提高ArceOS RTOS 下机器人的室内导航能力。
 
-RustRobotics  是一个RUST 编写的机器人导航的框架。 我们的目标是移植 RustRobotics 代码移植到到 Dora-rs，运行在ArceOS RTOS上, 此项目将提供 Dora-kit 四轮机器人， 借助已有的激光雷达， IMU 等传感器提高ArceOS RTOS 下机器人的室内导航能力。
+RustRobotics是一个RUST 编写的机器人导航的框架。 我们的目标是移植 RustRobotics 代码移植到到 Dora-rs，运行在ArceOS RTOS上, 此项目将提供 Dora-kit 四轮机器人， 借助已有的激光雷达， IMU 等传感器提高ArceOS RTOS 下机器人的室内导航能力。
 
 ## 所属赛道
 
@@ -23,7 +23,7 @@ RustRobotics  是一个RUST 编写的机器人导航的框架。 我们的目标
 ## 项目导师
 
 - 丁心民
-- email ding@nnupylot.com
+- email bding@dora-rs.org
 
 ## 赛题分类
 未归类的应用（如机器人、无人机等）
